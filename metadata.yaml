@@ -1,0 +1,32 @@
+_repo: Chopin---the-Man-and-His-Music_4939
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huneker, James
+    alias: Huneker, James Gibbons
+    birthdate: 1857
+    deathdate: 1921
+    gutenberg_agent_id: '1597'
+    url: http://www.gutenberg.org/2009/agents/1597
+    wikipedia: http://en.wikipedia.org/wiki/James_Huneker
+description: 'Part I: The man. Poland: youthful ideals ; Paris: in the maelstrom ;
+  England, Scotland and Pere La Chaise ; The artist ; Poet and psychologist -- Part
+  II: His music. The studies: titanic experiments ; Moods in miniature: the preludes
+  ; Imprompus and valses ; Night and its melancholy mysteries: the nocturnes ; The
+  ballades: faery dramas ; Classical currents ; The polonaise: heroic hymns of battle
+  ; Mazurkas: dances of the soul ; Chopin the conqueror.'
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chopin, Frédéric, 1810-1849'
+- !lcsh 'Composers -- Biography'
+- !lcc 'ML'
+- GITenberg
+title: 'Chopin : the Man and His Music'
+url: http://www.gutenberg.org/ebooks/4939
