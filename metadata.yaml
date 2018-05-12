@@ -1,5 +1,8 @@
 _repo: Chopin---the-Man-and-His-Music_4939
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Huneker, James
@@ -15,6 +18,8 @@ description: 'Part I: The man. Poland: youthful ideals ; Paris: in the maelstrom
   ; Imprompus and valses ; Night and its melancholy mysteries: the nocturnes ; The
   ballades: faery dramas ; Classical currents ; The polonaise: heroic hymns of battle
   ; Mazurkas: dances of the soul ; Chopin the conqueror.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4939#Chopin---the-Man-and-His-Music
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
